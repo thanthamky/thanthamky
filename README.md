@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Thantham K.
 ===================================================================================================================================
 
-Ph.D. RSGIS, Geospatial specialist, Data scientist, Web-GIS system developer
+Ph.D. in Remote Sensing and GIS, Geospatial Consultant and Researcher, Data scientist, Web-GIS system developer
 ----------------------------------------------------------------------------
 
 * 🌍  I'm based in Thailand
